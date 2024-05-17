@@ -40,6 +40,6 @@ El vocabulario en checo puede parecer desafiante al principio, pero una vez que 
 - **Deset** - Diez
 
 
-![Descargar los apuntes sobre pronunciación](./apuntes/02-vocabulario.pdf)
+[Descargar los apuntes sobre pronunciación](./apuntes/02-vocabulario.pdf)
 
-![Continuar en 02. Vocabulario](../03-gramatica/README.md)
+[Continuar en 02. Vocabulario](../03-gramatica/README.md)

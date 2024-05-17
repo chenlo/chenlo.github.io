@@ -48,6 +48,6 @@ Con esta guía básica, ya tienes una base para empezar a practicar la pronuncia
 
 ## Material complementario
 
-![Descargar los apuntes sobre pronunciación](apuntes/01-pronunciacion.pdf "download")
+[Descargar los apuntes sobre pronunciación](apuntes/01-pronunciacion.pdf "download")
 
-![Continuar en 02. Vocabulario](../02-vocabulario/README.md)
+[Continuar en 02. Vocabulario](../02-vocabulario/README.md)

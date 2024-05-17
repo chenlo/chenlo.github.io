@@ -71,4 +71,4 @@ Los pronombres personales cambian según el caso. Aquí están en nominativo:
 - **Vidím psa.** - Veo un perro.
 - **Mluvím česky.** - Hablo checo.
 
-![Descargar los apuntes sobre pronunciación](./apuntes/03-gramatica.pdf)
+[Descargar los apuntes sobre pronunciación](./apuntes/03-gramatica.pdf)
